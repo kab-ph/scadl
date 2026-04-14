@@ -1,6 +1,6 @@
 h5py==3.11.0
 innvestigate==2.1.2
-keras==2.14.0
+keras==3.13.2
 matplotlib==3.9.2
 numpy==1.24.3
 scikit_learn==1.5.2
